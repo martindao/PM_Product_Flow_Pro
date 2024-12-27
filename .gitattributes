@@ -1,2 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+
+# [2024-12-27] (Expert) schedule note: Harden OpenRouter integration for Expert
