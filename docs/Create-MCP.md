@@ -214,3 +214,5 @@ npm link ai-expert-workflow-mcp
 ```
 
 This allows you to test changes without publishing.
+
+- [2025-01-02] (OpenRouter) schedule note: Document expert workflow for OpenRouter
