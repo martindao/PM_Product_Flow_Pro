@@ -107,3 +107,5 @@ For the complete, up-to-date list with pricing information, see [https://openrou
 For more information about the OpenRouter API, see the [API Reference](https://openrouter.ai/docs/api-reference/overview).
 
 - [2024-12-31] (Workflow) schedule note: Document expert workflow for Workflow
+
+- [2025-01-03] (Expert) schedule note: Refine MCP prompt flow for Expert
