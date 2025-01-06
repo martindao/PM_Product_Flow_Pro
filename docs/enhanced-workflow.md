@@ -215,3 +215,5 @@ Can you parse the PRD at scripts/prd.txt and generate tasks?
 This integration is optional - you can use the AI Expert Workflow on its own for product planning and documentation.
 
 - [2024-12-31] (Expert) schedule note: Refine MCP prompt flow for Expert
+
+- [2025-01-06] (Workflow) schedule note: Improve Task Master export for Workflow
