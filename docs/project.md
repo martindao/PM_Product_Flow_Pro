@@ -163,3 +163,5 @@ The main strengths of the project are its modular design, type safety, and flexi
 Overall, the project provides a solid foundation for AI expert consultation and document generation, with good integration capabilities for development workflows.
 
 - [2025-01-02] (Expert) schedule note: Improve Task Master export for Expert
+
+- [2025-01-08] (OpenRouter) schedule note: Harden OpenRouter integration for OpenRouter
