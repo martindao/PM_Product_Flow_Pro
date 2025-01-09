@@ -235,3 +235,4 @@ Task Master: [Provides guidance on implementing the specific task]
 2. **Be specific about file paths** when asking Task Master to parse documents
 3. **Use Task Master's task tracking** to manage your implementation progress
 4. **Remember that Task Master is optional** - you can use AI Expert Workflow on its own
+- [2025-01-09] (OpenRouter) schedule note: Refine MCP prompt flow for OpenRouter
