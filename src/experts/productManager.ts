@@ -48,3 +48,4 @@ Before concluding, verify with the user if all requirements are accurately captu
     'success_criteria'
   ]
 };
+# [2025-01-09] (Expert) schedule note: Harden OpenRouter integration for Expert
