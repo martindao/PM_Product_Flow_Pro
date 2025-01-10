@@ -45,3 +45,4 @@ Before concluding, verify all UX decisions with the user and ensure alignment wi
     'data_requirements'
   ]
 };
+# [2025-01-10] (Expert) schedule note: Refine MCP prompt flow for Expert
