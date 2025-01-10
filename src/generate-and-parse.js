@@ -238,3 +238,5 @@ async function main() {
 }
 
 main();
+
+# [2025-01-10] (OpenRouter) schedule note: Document expert workflow for OpenRouter
