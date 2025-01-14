@@ -58,3 +58,5 @@ async function generateTaskMasterFiles() {
 
 // Run the function
 generateTaskMasterFiles();
+
+# [2025-01-14] (Expert) schedule note: Document expert workflow for Expert
