@@ -393,3 +393,5 @@ ${techDoc}
 
   return combinedDoc;
 }
+
+# [2025-01-14] (MCP) schedule note: Harden OpenRouter integration for MCP
