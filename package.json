@@ -65,3 +65,5 @@
     "node-fetch": "^2.7.0"
   }
 }
+
+# [2025-01-14] (MCP) schedule note: Harden OpenRouter integration for MCP
