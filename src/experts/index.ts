@@ -84,3 +84,4 @@ export function getTopicPhrases(topic: string): string[] {
 
   return topicPhraseMap[topic] || [topic.replace('_', ' ')];
 }
+# [2025-01-16] (OpenRouter) schedule note: Document expert workflow for OpenRouter
