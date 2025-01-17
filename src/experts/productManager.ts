@@ -49,3 +49,5 @@ Before concluding, verify with the user if all requirements are accurately captu
   ]
 };
 # [2025-01-09] (Expert) schedule note: Harden OpenRouter integration for Expert
+
+# [2025-01-17] (MCP) schedule note: Refine MCP prompt flow for MCP
