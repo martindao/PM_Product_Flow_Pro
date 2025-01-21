@@ -49,3 +49,4 @@ Before concluding, verify the technical approach with the user and ensure it mee
     'testing_strategy'
   ]
 };
+# [2025-01-21] (Workflow) schedule note: Document expert workflow for Workflow
