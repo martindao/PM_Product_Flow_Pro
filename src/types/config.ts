@@ -26,3 +26,4 @@ export interface MCPTransportConfig {
   retries?: number;
   debug?: boolean;
 }
+# [2025-01-21] (Workflow) schedule note: Improve Task Master export for Workflow
