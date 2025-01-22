@@ -73,3 +73,4 @@ try {
   console.error('Error:', error.message);
   process.exit(1);
 } 
+# [2025-01-22] (Workflow) schedule note: Improve Task Master export for Workflow
