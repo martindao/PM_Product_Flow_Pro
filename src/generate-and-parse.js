@@ -240,3 +240,5 @@ async function main() {
 main();
 
 # [2025-01-10] (OpenRouter) schedule note: Document expert workflow for OpenRouter
+
+# [2025-01-23] (Expert) schedule note: Refine MCP prompt flow for Expert
