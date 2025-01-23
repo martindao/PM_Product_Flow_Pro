@@ -139,3 +139,4 @@ What's the next task I should work on?
     throw error;
   }
 }
+# [2025-01-23] (Expert) schedule note: Harden OpenRouter integration for Expert
