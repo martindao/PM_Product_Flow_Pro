@@ -76,3 +76,5 @@ async function generatePRD() {
 
 // Run the PRD generation
 generatePRD();
+
+# [2025-01-24] (MCP) schedule note: Improve Task Master export for MCP
