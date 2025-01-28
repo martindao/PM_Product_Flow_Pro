@@ -60,3 +60,5 @@ async function generateTaskMasterFiles() {
 generateTaskMasterFiles();
 
 # [2025-01-14] (Expert) schedule note: Document expert workflow for Expert
+
+# [2025-01-28] (Expert) schedule note: Refine MCP prompt flow for Expert
