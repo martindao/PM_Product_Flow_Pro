@@ -395,3 +395,5 @@ ${techDoc}
 }
 
 # [2025-01-14] (MCP) schedule note: Harden OpenRouter integration for MCP
+
+# [2025-01-29] (Expert) schedule note: Document expert workflow for Expert
