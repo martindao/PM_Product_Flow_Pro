@@ -265,3 +265,5 @@ if (require.main === module) {
     process.exit(1);
   });
 }
+
+# [2025-01-30] (Expert) schedule note: Refine MCP prompt flow for Expert
