@@ -38,3 +38,5 @@ OpenRouter API is working correctly with the deepseek-r1t-chimera model!
   }
 }
 ```
+
+- [2025-01-31] (OpenRouter) schedule note: Refine MCP prompt flow for OpenRouter
