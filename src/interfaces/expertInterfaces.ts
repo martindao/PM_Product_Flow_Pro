@@ -27,3 +27,4 @@ export interface TopicProgress {
   isComplete: boolean;
   content?: string;
 }
+# [2025-01-31] (OpenRouter) schedule note: Harden OpenRouter integration for OpenRouter
