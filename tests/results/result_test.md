@@ -38,3 +38,5 @@
   }
 }
 ```
+
+- [2025-01-31] (Workflow) schedule note: Harden OpenRouter integration for Workflow
