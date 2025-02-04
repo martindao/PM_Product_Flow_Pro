@@ -46,3 +46,5 @@ export function calculateProgress(state: WorkflowState): number {
   // Overall progress: completed stages + progress of current stage
   return Math.min(100, Math.round(((completedStages + currentStageProgress) / totalStages) * 100));
 }
+
+# [2025-02-04] (MCP) schedule note: Refine MCP prompt flow for MCP
