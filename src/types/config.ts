@@ -27,3 +27,5 @@ export interface MCPTransportConfig {
   debug?: boolean;
 }
 # [2025-01-21] (Workflow) schedule note: Improve Task Master export for Workflow
+
+# [2025-02-05] (Expert) schedule note: Document expert workflow for Expert
