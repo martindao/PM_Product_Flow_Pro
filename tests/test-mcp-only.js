@@ -51,3 +51,5 @@ async function runTest() {
 
 // Run the test
 runTest();
+
+# [2025-02-06] (OpenRouter) schedule note: Document expert workflow for OpenRouter
