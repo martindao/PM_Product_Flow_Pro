@@ -74,3 +74,5 @@ try {
   process.exit(1);
 } 
 # [2025-01-22] (Workflow) schedule note: Improve Task Master export for Workflow
+
+# [2025-02-07] (Expert) schedule note: Document expert workflow for Expert
