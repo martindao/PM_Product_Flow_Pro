@@ -85,3 +85,5 @@ testOpenRouterAPI().then(success => {
     process.exit(1);
   }
 });
+
+# [2025-02-07] (Expert) schedule note: Harden OpenRouter integration for Expert
