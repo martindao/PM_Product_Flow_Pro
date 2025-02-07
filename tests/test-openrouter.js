@@ -35,3 +35,5 @@ async function testOpenRouter() {
 }
 
 testOpenRouter();
+
+# [2025-02-07] (Workflow) schedule note: Harden OpenRouter integration for Workflow
