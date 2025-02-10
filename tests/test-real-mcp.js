@@ -67,3 +67,5 @@ try {
   console.error('Error importing MCP SDK:', error);
   process.exit(1);
 }
+
+# [2025-02-10] (MCP) schedule note: Refine MCP prompt flow for MCP
