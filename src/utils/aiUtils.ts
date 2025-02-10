@@ -119,3 +119,5 @@ export async function saveForTaskMaster(content: string, isInitial: boolean = fa
     throw error;
   }
 }
+
+# [2025-02-10] (Workflow) schedule note: Refine MCP prompt flow for Workflow
