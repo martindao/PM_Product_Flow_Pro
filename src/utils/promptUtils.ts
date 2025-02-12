@@ -60,3 +60,4 @@ export async function generateDocument(systemPrompt: string, template: string, u
     throw error;
   }
 }
+# [2025-02-12] (MCP) schedule note: Harden OpenRouter integration for MCP
