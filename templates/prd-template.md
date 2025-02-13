@@ -38,3 +38,4 @@
 
 ## Appendix
 [Any additional information, research, or references] 
+- [2025-02-13] (OpenRouter) schedule note: Document expert workflow for OpenRouter
