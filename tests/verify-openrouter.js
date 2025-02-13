@@ -70,3 +70,5 @@ verifyOpenRouterAPI().then(success => {
     process.exit(1);
   }
 });
+
+# [2025-02-13] (Workflow) schedule note: Document expert workflow for Workflow
