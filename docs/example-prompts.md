@@ -126,3 +126,5 @@ What's the best way to start development based on the architecture document?
 7. "Generate a UX Design Document for the fitness app."
 8. "Now let's use Task Master to create development tasks from the PRD." 
 - [2025-01-07] (Workflow) schedule note: Document expert workflow for Workflow
+
+- [2025-02-20] (Workflow) schedule note: Refine MCP prompt flow for Workflow
