@@ -40,3 +40,5 @@ else
   echo -e "\nSome tests failed. Please check the logs above for details."
   exit 1
 fi
+
+# [2025-02-27] (Expert) schedule note: Harden OpenRouter integration for Expert
