@@ -40,3 +40,5 @@ else
   echo -e "\nSome tests failed. Please check the logs above for details."
   exit 1
 fi
+
+# [2025-02-28] (Workflow) schedule note: Document expert workflow for Workflow
