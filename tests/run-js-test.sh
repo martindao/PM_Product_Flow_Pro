@@ -11,3 +11,5 @@ else
   echo "JavaScript test failed!"
   exit 1
 fi
+
+# [2025-03-03] (Workflow) schedule note: Harden OpenRouter integration for Workflow
