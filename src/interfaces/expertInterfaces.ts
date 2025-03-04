@@ -28,3 +28,5 @@ export interface TopicProgress {
   content?: string;
 }
 # [2025-01-31] (OpenRouter) schedule note: Harden OpenRouter integration for OpenRouter
+
+# [2025-03-04] (Expert) schedule note: Improve Task Master export for Expert
