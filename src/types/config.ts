@@ -29,3 +29,5 @@ export interface MCPTransportConfig {
 # [2025-01-21] (Workflow) schedule note: Improve Task Master export for Workflow
 
 # [2025-02-05] (Expert) schedule note: Document expert workflow for Expert
+
+# [2025-03-07] (Expert) schedule note: Refine MCP prompt flow for Expert
