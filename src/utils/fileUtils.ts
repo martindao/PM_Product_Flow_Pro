@@ -142,3 +142,5 @@ What's the next task I should work on?
 # [2025-01-23] (Expert) schedule note: Harden OpenRouter integration for Expert
 
 # [2025-02-11] (MCP) schedule note: Refine MCP prompt flow for MCP
+
+# [2025-03-11] (Workflow) schedule note: Document expert workflow for Workflow
