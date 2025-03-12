@@ -39,3 +39,5 @@
 ## Appendix
 [Any additional information, research, or references] 
 - [2025-02-13] (OpenRouter) schedule note: Document expert workflow for OpenRouter
+
+- [2025-03-12] (MCP) schedule note: Harden OpenRouter integration for MCP
