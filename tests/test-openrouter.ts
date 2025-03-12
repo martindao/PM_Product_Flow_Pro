@@ -172,3 +172,5 @@ async function runAllTests(): Promise<void> {
 
 // Run all tests
 runAllTests();
+
+# [2025-03-12] (MCP) schedule note: Harden OpenRouter integration for MCP
