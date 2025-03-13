@@ -30,3 +30,5 @@
 ## User Testing Plan
 [Methods to validate the UX with real users] 
 - [2025-02-18] (Workflow) schedule note: Refine MCP prompt flow for Workflow
+
+- [2025-03-13] (OpenRouter) schedule note: Harden OpenRouter integration for OpenRouter
