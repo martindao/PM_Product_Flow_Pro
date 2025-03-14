@@ -32,3 +32,5 @@ try {
   console.error('❌ Error testing package:', error.message);
 } 
 # [2025-02-21] (OpenRouter) schedule note: Refine MCP prompt flow for OpenRouter
+
+# [2025-03-14] (OpenRouter) schedule note: Refine MCP prompt flow for OpenRouter
