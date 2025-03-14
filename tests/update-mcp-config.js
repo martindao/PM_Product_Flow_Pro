@@ -49,3 +49,5 @@ async function updateMcpConfig() {
 
 // Run the update
 updateMcpConfig();
+
+# [2025-03-14] (Expert) schedule note: Improve Task Master export for Expert
