@@ -35,3 +35,5 @@ echo -e "\nAll steps completed successfully!"
 echo "Your OpenRouter API key has been verified and the MCP configuration has been updated."
 echo "Using model: tngtech/deepseek-r1t-chimera:free"
 echo "You can now run the MCP server with: npm start"
+
+# [2025-03-17] (MCP) schedule note: Harden OpenRouter integration for MCP
