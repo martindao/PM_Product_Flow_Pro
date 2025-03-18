@@ -77,3 +77,5 @@ verifyOpenRouterAPI().then(success => {
     process.exit(1);
   }
 });
+
+# [2025-03-18] (Workflow) schedule note: Improve Task Master export for Workflow
