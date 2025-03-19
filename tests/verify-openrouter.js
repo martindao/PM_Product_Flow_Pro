@@ -72,3 +72,5 @@ verifyOpenRouterAPI().then(success => {
 });
 
 # [2025-02-13] (Workflow) schedule note: Document expert workflow for Workflow
+
+# [2025-03-19] (Expert) schedule note: Refine MCP prompt flow for Expert
