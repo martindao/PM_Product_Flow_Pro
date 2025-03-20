@@ -55,3 +55,5 @@ runTest();
 # [2025-02-06] (OpenRouter) schedule note: Document expert workflow for OpenRouter
 
 # [2025-03-06] (Expert) schedule note: Refine MCP prompt flow for Expert
+
+# [2025-03-20] (Expert) schedule note: Document expert workflow for Expert
