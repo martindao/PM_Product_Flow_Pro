@@ -41,3 +41,5 @@ async function testOpenRouter() {
 testOpenRouter();
 
 # [2025-03-07] (MCP) schedule note: Document expert workflow for MCP
+
+# [2025-03-21] (MCP) schedule note: Document expert workflow for MCP
