@@ -71,3 +71,5 @@ try {
 # [2025-02-10] (MCP) schedule note: Refine MCP prompt flow for MCP
 
 # [2025-03-13] (MCP) schedule note: Improve Task Master export for MCP
+
+# [2025-03-25] (MCP) schedule note: Refine MCP prompt flow for MCP
