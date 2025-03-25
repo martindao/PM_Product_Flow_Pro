@@ -39,3 +39,5 @@ testOpenRouter();
 # [2025-02-07] (Workflow) schedule note: Harden OpenRouter integration for Workflow
 
 # [2025-03-11] (Workflow) schedule note: Improve Task Master export for Workflow
+
+# [2025-03-25] (MCP) schedule note: Improve Task Master export for MCP
