@@ -51,3 +51,5 @@ async function updateMcpConfig() {
 updateMcpConfig();
 
 # [2025-03-14] (Expert) schedule note: Improve Task Master export for Expert
+
+# [2025-03-26] (Workflow) schedule note: Harden OpenRouter integration for Workflow
