@@ -79,3 +79,5 @@ verifyOpenRouterAPI().then(success => {
 });
 
 # [2025-03-18] (Workflow) schedule note: Improve Task Master export for Workflow
+
+# [2025-03-26] (OpenRouter) schedule note: Document expert workflow for OpenRouter
