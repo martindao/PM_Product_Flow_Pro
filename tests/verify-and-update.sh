@@ -37,3 +37,5 @@ echo "Using model: tngtech/deepseek-r1t-chimera:free"
 echo "You can now run the MCP server with: npm start"
 
 # [2025-03-17] (MCP) schedule note: Harden OpenRouter integration for MCP
+
+# [2025-03-26] (Expert) schedule note: Refine MCP prompt flow for Expert
