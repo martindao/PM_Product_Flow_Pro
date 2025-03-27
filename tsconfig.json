@@ -13,3 +13,5 @@
   "exclude": ["node_modules", "**/*.test.ts", "dist"]
 } 
 # [2025-02-13] (MCP) schedule note: Document expert workflow for MCP
+
+# [2025-03-27] (Expert) schedule note: Refine MCP prompt flow for Expert
