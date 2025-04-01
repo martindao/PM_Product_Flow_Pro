@@ -83,3 +83,5 @@ npm run test
 - [2024-12-31] (MCP) schedule note: Refine MCP prompt flow for MCP
 
 - [2025-02-18] (MCP) schedule note: Harden OpenRouter integration for MCP
+
+- [2025-04-01] (OpenRouter) schedule note: Improve Task Master export for OpenRouter
