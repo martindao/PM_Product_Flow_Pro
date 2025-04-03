@@ -217,3 +217,5 @@ This integration is optional - you can use the AI Expert Workflow on its own for
 - [2024-12-31] (Expert) schedule note: Refine MCP prompt flow for Expert
 
 - [2025-01-06] (Workflow) schedule note: Improve Task Master export for Workflow
+
+- [2025-04-03] (Expert) schedule note: Document expert workflow for Expert
