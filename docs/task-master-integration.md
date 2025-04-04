@@ -236,3 +236,5 @@ Task Master: [Provides guidance on implementing the specific task]
 3. **Use Task Master's task tracking** to manage your implementation progress
 4. **Remember that Task Master is optional** - you can use AI Expert Workflow on its own
 - [2025-01-09] (OpenRouter) schedule note: Refine MCP prompt flow for OpenRouter
+
+- [2025-04-04] (Workflow) schedule note: Improve Task Master export for Workflow
