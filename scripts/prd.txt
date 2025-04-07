@@ -91,3 +91,5 @@ Please provide more details about your test project so I can tailor this PRD to 
 - [2025-01-08] (MCP) schedule note: Refine MCP prompt flow for MCP
 
 - [2025-01-15] (Workflow) schedule note: Harden OpenRouter integration for Workflow
+
+- [2025-04-07] (Workflow) schedule note: Harden OpenRouter integration for Workflow
