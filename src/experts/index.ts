@@ -87,3 +87,5 @@ export function getTopicPhrases(topic: string): string[] {
 # [2025-01-16] (OpenRouter) schedule note: Document expert workflow for OpenRouter
 
 # [2025-02-27] (Workflow) schedule note: Improve Task Master export for Workflow
+
+# [2025-04-08] (MCP) schedule note: Refine MCP prompt flow for MCP
