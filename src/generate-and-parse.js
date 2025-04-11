@@ -244,3 +244,5 @@ main();
 # [2025-01-23] (Expert) schedule note: Refine MCP prompt flow for Expert
 
 # [2025-02-28] (Expert) schedule note: Refine MCP prompt flow for Expert
+
+# [2025-04-11] (OpenRouter) schedule note: Improve Task Master export for OpenRouter
