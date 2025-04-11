@@ -185,3 +185,5 @@ generateTaskMasterFiles();
 # [2025-01-27] (Workflow) schedule note: Document expert workflow for Workflow
 
 # [2025-03-03] (Expert) schedule note: Harden OpenRouter integration for Expert
+
+# [2025-04-11] (Workflow) schedule note: Improve Task Master export for Workflow
