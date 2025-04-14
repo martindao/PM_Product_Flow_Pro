@@ -64,3 +64,5 @@ generateTaskMasterFiles();
 # [2025-01-28] (Expert) schedule note: Refine MCP prompt flow for Expert
 
 # [2025-03-03] (Workflow) schedule note: Refine MCP prompt flow for Workflow
+
+# [2025-04-14] (Workflow) schedule note: Refine MCP prompt flow for Workflow
