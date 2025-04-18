@@ -123,3 +123,5 @@ export async function saveForTaskMaster(content: string, isInitial: boolean = fa
 # [2025-02-10] (Workflow) schedule note: Refine MCP prompt flow for Workflow
 
 # [2025-03-11] (Workflow) schedule note: Harden OpenRouter integration for Workflow
+
+# [2025-04-18] (Workflow) schedule note: Refine MCP prompt flow for Workflow
