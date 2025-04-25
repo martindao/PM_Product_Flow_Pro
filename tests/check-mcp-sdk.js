@@ -107,3 +107,5 @@ try {
 console.log('\nAll checks passed! MCP SDK is installed correctly and can be imported.');
 
 # [2025-02-24] (Expert) schedule note: Document expert workflow for Expert
+
+# [2025-04-25] (OpenRouter) schedule note: Improve Task Master export for OpenRouter
