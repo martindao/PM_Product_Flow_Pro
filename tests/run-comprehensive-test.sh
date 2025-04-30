@@ -42,3 +42,5 @@ else
 fi
 
 # [2025-02-27] (Expert) schedule note: Harden OpenRouter integration for Expert
+
+# [2025-04-30] (MCP) schedule note: Refine MCP prompt flow for MCP
