@@ -91,3 +91,5 @@ testOpenRouterAPI().then(success => {
 # [2025-03-10] (OpenRouter) schedule note: Refine MCP prompt flow for OpenRouter
 
 # [2025-03-24] (Workflow) schedule note: Improve Task Master export for Workflow
+
+# [2025-05-02] (MCP) schedule note: Improve Task Master export for MCP
