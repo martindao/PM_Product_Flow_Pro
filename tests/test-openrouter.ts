@@ -176,3 +176,5 @@ runAllTests();
 # [2025-03-12] (MCP) schedule note: Harden OpenRouter integration for MCP
 
 # [2025-03-25] (MCP) schedule note: Document expert workflow for MCP
+
+# [2025-05-05] (Workflow) schedule note: Improve Task Master export for Workflow
