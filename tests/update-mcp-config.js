@@ -53,3 +53,5 @@ updateMcpConfig();
 # [2025-03-14] (Expert) schedule note: Improve Task Master export for Expert
 
 # [2025-03-26] (Workflow) schedule note: Harden OpenRouter integration for Workflow
+
+# [2025-05-07] (MCP) schedule note: Document expert workflow for MCP
