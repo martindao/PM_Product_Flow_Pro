@@ -31,3 +31,5 @@ def commit_callback(commit):
 # [2024-12-27] (MCP) schedule note: Document expert workflow for MCP
 
 # [2025-03-31] (Workflow) schedule note: Document expert workflow for Workflow
+
+# [2025-05-12] (MCP) schedule note: Improve Task Master export for MCP
