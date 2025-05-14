@@ -130,3 +130,5 @@ What's the best way to start development based on the architecture document?
 - [2025-02-20] (Workflow) schedule note: Refine MCP prompt flow for Workflow
 
 - [2025-04-03] (Expert) schedule note: Refine MCP prompt flow for Expert
+
+- [2025-05-14] (Expert) schedule note: Improve Task Master export for Expert
