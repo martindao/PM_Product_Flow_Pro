@@ -219,3 +219,5 @@ This integration is optional - you can use the AI Expert Workflow on its own for
 - [2025-01-06] (Workflow) schedule note: Improve Task Master export for Workflow
 
 - [2025-04-03] (Expert) schedule note: Document expert workflow for Expert
+
+- [2025-05-14] (Workflow) schedule note: Harden OpenRouter integration for Workflow
