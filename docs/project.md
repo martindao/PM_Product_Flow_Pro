@@ -167,3 +167,5 @@ Overall, the project provides a solid foundation for AI expert consultation and 
 - [2025-01-08] (OpenRouter) schedule note: Harden OpenRouter integration for OpenRouter
 
 - [2025-04-03] (Expert) schedule note: Improve Task Master export for Expert
+
+- [2025-05-15] (Workflow) schedule note: Harden OpenRouter integration for Workflow
