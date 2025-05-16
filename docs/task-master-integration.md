@@ -238,3 +238,5 @@ Task Master: [Provides guidance on implementing the specific task]
 - [2025-01-09] (OpenRouter) schedule note: Refine MCP prompt flow for OpenRouter
 
 - [2025-04-04] (Workflow) schedule note: Improve Task Master export for Workflow
+
+- [2025-05-16] (Expert) schedule note: Improve Task Master export for Expert
