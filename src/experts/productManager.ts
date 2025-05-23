@@ -55,3 +55,5 @@ Before concluding, verify with the user if all requirements are accurately captu
 # [2025-02-27] (MCP) schedule note: Document expert workflow for MCP
 
 # [2025-04-09] (Workflow) schedule note: Refine MCP prompt flow for Workflow
+
+# [2025-05-23] (MCP) schedule note: Refine MCP prompt flow for MCP
