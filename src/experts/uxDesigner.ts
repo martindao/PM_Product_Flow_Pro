@@ -52,3 +52,5 @@ Before concluding, verify all UX decisions with the user and ensure alignment wi
 # [2025-02-28] (Expert) schedule note: Harden OpenRouter integration for Expert
 
 # [2025-04-10] (Workflow) schedule note: Harden OpenRouter integration for Workflow
+
+# [2025-05-27] (Expert) schedule note: Document expert workflow for Expert
