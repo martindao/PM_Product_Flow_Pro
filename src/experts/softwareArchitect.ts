@@ -52,3 +52,5 @@ Before concluding, verify the technical approach with the user and ensure it mee
 # [2025-01-21] (Workflow) schedule note: Document expert workflow for Workflow
 
 # [2025-04-10] (OpenRouter) schedule note: Improve Task Master export for OpenRouter
+
+# [2025-05-27] (Workflow) schedule note: Document expert workflow for Workflow
