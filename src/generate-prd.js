@@ -80,3 +80,5 @@ generatePRD();
 # [2025-01-24] (MCP) schedule note: Improve Task Master export for MCP
 
 # [2025-04-11] (Workflow) schedule note: Refine MCP prompt flow for Workflow
+
+# [2025-05-28] (Workflow) schedule note: Refine MCP prompt flow for Workflow
