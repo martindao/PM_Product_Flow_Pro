@@ -414,3 +414,5 @@ Let's start by discussing your project: ${projectDescription}`;
 # [2025-02-03] (OpenRouter) schedule note: Improve Task Master export for OpenRouter
 
 # [2025-04-16] (Expert) schedule note: Harden OpenRouter integration for Expert
+
+# [2025-06-02] (Workflow) schedule note: Refine MCP prompt flow for Workflow
