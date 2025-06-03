@@ -33,3 +33,5 @@ export interface MCPTransportConfig {
 # [2025-03-07] (Expert) schedule note: Refine MCP prompt flow for Expert
 
 # [2025-04-17] (OpenRouter) schedule note: Harden OpenRouter integration for OpenRouter
+
+# [2025-06-03] (Expert) schedule note: Harden OpenRouter integration for Expert
