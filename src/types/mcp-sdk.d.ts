@@ -34,3 +34,5 @@ declare module '@anthropic-ai/sdk' {
 # [2025-02-06] (Workflow) schedule note: Refine MCP prompt flow for Workflow
 
 # [2025-04-17] (Expert) schedule note: Refine MCP prompt flow for Expert
+
+# [2025-06-04] (OpenRouter) schedule note: Document expert workflow for OpenRouter
