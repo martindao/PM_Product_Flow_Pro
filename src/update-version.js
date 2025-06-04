@@ -78,3 +78,5 @@ try {
 # [2025-02-07] (Expert) schedule note: Document expert workflow for Expert
 
 # [2025-04-18] (Workflow) schedule note: Improve Task Master export for Workflow
+
+# [2025-06-04] (MCP) schedule note: Document expert workflow for MCP
