@@ -49,3 +49,5 @@
 - [2025-02-14] (Workflow) schedule note: Document expert workflow for Workflow
 
 - [2025-04-23] (OpenRouter) schedule note: Harden OpenRouter integration for OpenRouter
+
+- [2025-06-09] (MCP) schedule note: Refine MCP prompt flow for MCP
