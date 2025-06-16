@@ -44,3 +44,5 @@ fi
 # [2025-02-28] (Workflow) schedule note: Document expert workflow for Workflow
 
 # [2025-04-30] (Workflow) schedule note: Improve Task Master export for Workflow
+
+# [2025-06-16] (Expert) schedule note: Harden OpenRouter integration for Expert
