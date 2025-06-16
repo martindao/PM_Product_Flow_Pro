@@ -17,3 +17,5 @@ fi
 # [2025-03-19] (MCP) schedule note: Improve Task Master export for MCP
 
 # [2025-04-30] (OpenRouter) schedule note: Improve Task Master export for OpenRouter
+
+# [2025-06-16] (MCP) schedule note: Document expert workflow for MCP
