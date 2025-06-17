@@ -59,3 +59,5 @@ runTest();
 # [2025-03-20] (Expert) schedule note: Document expert workflow for Expert
 
 # [2025-05-01] (OpenRouter) schedule note: Improve Task Master export for OpenRouter
+
+# [2025-06-17] (MCP) schedule note: Harden OpenRouter integration for MCP
