@@ -75,3 +75,5 @@ try {
 # [2025-03-25] (MCP) schedule note: Refine MCP prompt flow for MCP
 
 # [2025-05-06] (MCP) schedule note: Harden OpenRouter integration for MCP
+
+# [2025-06-20] (Expert) schedule note: Refine MCP prompt flow for Expert
