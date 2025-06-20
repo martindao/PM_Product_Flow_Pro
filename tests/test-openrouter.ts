@@ -178,3 +178,5 @@ runAllTests();
 # [2025-03-25] (MCP) schedule note: Document expert workflow for MCP
 
 # [2025-05-05] (Workflow) schedule note: Improve Task Master export for Workflow
+
+# [2025-06-20] (MCP) schedule note: Improve Task Master export for MCP
