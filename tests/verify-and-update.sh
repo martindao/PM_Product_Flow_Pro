@@ -41,3 +41,5 @@ echo "You can now run the MCP server with: npm start"
 # [2025-03-26] (Expert) schedule note: Refine MCP prompt flow for Expert
 
 # [2025-05-07] (Workflow) schedule note: Refine MCP prompt flow for Workflow
+
+# [2025-06-23] (Workflow) schedule note: Refine MCP prompt flow for Workflow
