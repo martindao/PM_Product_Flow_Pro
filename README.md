@@ -87,3 +87,5 @@ npm run test
 - [2025-04-01] (OpenRouter) schedule note: Improve Task Master export for OpenRouter
 
 - [2025-05-12] (OpenRouter) schedule note: Improve Task Master export for OpenRouter
+
+- [2025-06-26] (Expert) schedule note: Harden OpenRouter integration for Expert
