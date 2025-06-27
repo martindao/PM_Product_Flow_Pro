@@ -115,3 +115,5 @@ For more information about the OpenRouter API, see the [API Reference](https://o
 - [2025-04-02] (Expert) schedule note: Refine MCP prompt flow for Expert
 
 - [2025-05-13] (Expert) schedule note: Refine MCP prompt flow for Expert
+
+- [2025-06-27] (Workflow) schedule note: Document expert workflow for Workflow
