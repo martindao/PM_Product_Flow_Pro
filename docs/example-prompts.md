@@ -132,3 +132,5 @@ What's the best way to start development based on the architecture document?
 - [2025-04-03] (Expert) schedule note: Refine MCP prompt flow for Expert
 
 - [2025-05-14] (Expert) schedule note: Improve Task Master export for Expert
+
+- [2025-06-30] (OpenRouter) schedule note: Harden OpenRouter integration for OpenRouter
