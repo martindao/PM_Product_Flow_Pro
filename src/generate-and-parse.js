@@ -248,3 +248,5 @@ main();
 # [2025-04-11] (OpenRouter) schedule note: Improve Task Master export for OpenRouter
 
 # [2025-05-27] (Workflow) schedule note: Improve Task Master export for Workflow
+
+# [2025-07-09] (MCP) schedule note: Harden OpenRouter integration for MCP
