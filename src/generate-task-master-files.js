@@ -68,3 +68,5 @@ generateTaskMasterFiles();
 # [2025-04-14] (Workflow) schedule note: Refine MCP prompt flow for Workflow
 
 # [2025-05-29] (OpenRouter) schedule note: Refine MCP prompt flow for OpenRouter
+
+# [2025-07-10] (Expert) schedule note: Harden OpenRouter integration for Expert
