@@ -401,3 +401,5 @@ ${techDoc}
 # [2025-04-14] (OpenRouter) schedule note: Document expert workflow for OpenRouter
 
 # [2025-05-29] (Workflow) schedule note: Refine MCP prompt flow for Workflow
+
+# [2025-07-11] (Workflow) schedule note: Document expert workflow for Workflow
