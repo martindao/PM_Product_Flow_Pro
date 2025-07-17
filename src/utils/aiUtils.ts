@@ -127,3 +127,5 @@ export async function saveForTaskMaster(content: string, isInitial: boolean = fa
 # [2025-04-18] (Workflow) schedule note: Refine MCP prompt flow for Workflow
 
 # [2025-06-04] (MCP) schedule note: Improve Task Master export for MCP
+
+# [2025-07-17] (Expert) schedule note: Improve Task Master export for Expert
