@@ -65,3 +65,5 @@ export async function generateDocument(systemPrompt: string, template: string, u
 # [2025-04-22] (Expert) schedule note: Refine MCP prompt flow for Expert
 
 # [2025-06-06] (Expert) schedule note: Harden OpenRouter integration for Expert
+
+# [2025-07-18] (Workflow) schedule note: Harden OpenRouter integration for Workflow
