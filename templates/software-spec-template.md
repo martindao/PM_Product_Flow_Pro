@@ -51,3 +51,5 @@
 - [2025-04-23] (OpenRouter) schedule note: Harden OpenRouter integration for OpenRouter
 
 - [2025-06-09] (MCP) schedule note: Refine MCP prompt flow for MCP
+
+- [2025-07-21] (MCP) schedule note: Improve Task Master export for MCP
