@@ -45,3 +45,5 @@
 - [2025-04-22] (Expert) schedule note: Refine MCP prompt flow for Expert
 
 - [2025-06-06] (MCP) schedule note: Refine MCP prompt flow for MCP
+
+- [2025-07-21] (OpenRouter) schedule note: Document expert workflow for OpenRouter
