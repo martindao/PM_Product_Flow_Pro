@@ -36,3 +36,5 @@
 - [2025-04-23] (MCP) schedule note: Document expert workflow for MCP
 
 - [2025-06-10] (OpenRouter) schedule note: Improve Task Master export for OpenRouter
+
+- [2025-07-22] (OpenRouter) schedule note: Improve Task Master export for OpenRouter
