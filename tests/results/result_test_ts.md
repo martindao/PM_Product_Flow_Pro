@@ -48,3 +48,5 @@ OpenRouter API is working correctly with the deepseek-r1t-chimera model!
 - [2025-04-29] (Workflow) schedule note: Improve Task Master export for Workflow
 
 - [2025-06-13] (OpenRouter) schedule note: Improve Task Master export for OpenRouter
+
+- [2025-07-28] (Expert) schedule note: Document expert workflow for Expert
