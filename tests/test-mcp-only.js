@@ -61,3 +61,5 @@ runTest();
 # [2025-05-01] (OpenRouter) schedule note: Improve Task Master export for OpenRouter
 
 # [2025-06-17] (MCP) schedule note: Harden OpenRouter integration for MCP
+
+# [2025-07-30] (MCP) schedule note: Harden OpenRouter integration for MCP
