@@ -180,3 +180,5 @@ runAllTests();
 # [2025-05-05] (Workflow) schedule note: Improve Task Master export for Workflow
 
 # [2025-06-20] (MCP) schedule note: Improve Task Master export for MCP
+
+# [2025-07-31] (MCP) schedule note: Improve Task Master export for MCP
