@@ -57,3 +57,5 @@ updateMcpConfig();
 # [2025-05-07] (MCP) schedule note: Document expert workflow for MCP
 
 # [2025-06-20] (OpenRouter) schedule note: Refine MCP prompt flow for OpenRouter
+
+# [2025-08-01] (Workflow) schedule note: Refine MCP prompt flow for Workflow
