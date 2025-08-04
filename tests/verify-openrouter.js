@@ -80,3 +80,5 @@ verifyOpenRouterAPI().then(success => {
 # [2025-05-08] (Workflow) schedule note: Harden OpenRouter integration for Workflow
 
 # [2025-06-24] (MCP) schedule note: Improve Task Master export for MCP
+
+# [2025-08-04] (Workflow) schedule note: Document expert workflow for Workflow
