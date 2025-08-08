@@ -134,3 +134,5 @@ What's the best way to start development based on the architecture document?
 - [2025-05-14] (Expert) schedule note: Improve Task Master export for Expert
 
 - [2025-06-30] (OpenRouter) schedule note: Harden OpenRouter integration for OpenRouter
+
+- [2025-08-08] (Workflow) schedule note: Harden OpenRouter integration for Workflow
