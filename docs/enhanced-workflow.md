@@ -223,3 +223,5 @@ This integration is optional - you can use the AI Expert Workflow on its own for
 - [2025-05-14] (Workflow) schedule note: Harden OpenRouter integration for Workflow
 
 - [2025-06-30] (MCP) schedule note: Refine MCP prompt flow for MCP
+
+- [2025-08-08] (MCP) schedule note: Refine MCP prompt flow for MCP
