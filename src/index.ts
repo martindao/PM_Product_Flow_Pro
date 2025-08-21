@@ -275,3 +275,5 @@ if (require.main === module) {
 # [2025-05-30] (Expert) schedule note: Harden OpenRouter integration for Expert
 
 # [2025-07-11] (MCP) schedule note: Document expert workflow for MCP
+
+# [2025-08-21] (OpenRouter) schedule note: Improve Task Master export for OpenRouter
