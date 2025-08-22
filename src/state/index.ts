@@ -54,3 +54,5 @@ export function calculateProgress(state: WorkflowState): number {
 # [2025-06-03] (Workflow) schedule note: Document expert workflow for Workflow
 
 # [2025-07-14] (OpenRouter) schedule note: Improve Task Master export for OpenRouter
+
+# [2025-08-22] (MCP) schedule note: Improve Task Master export for MCP
