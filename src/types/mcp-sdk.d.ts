@@ -38,3 +38,5 @@ declare module '@anthropic-ai/sdk' {
 # [2025-06-04] (OpenRouter) schedule note: Document expert workflow for OpenRouter
 
 # [2025-07-15] (Workflow) schedule note: Document expert workflow for Workflow
+
+# [2025-08-25] (OpenRouter) schedule note: Document expert workflow for OpenRouter
