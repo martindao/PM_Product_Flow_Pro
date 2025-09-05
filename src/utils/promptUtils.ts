@@ -67,3 +67,5 @@ export async function generateDocument(systemPrompt: string, template: string, u
 # [2025-06-06] (Expert) schedule note: Harden OpenRouter integration for Expert
 
 # [2025-07-18] (Workflow) schedule note: Harden OpenRouter integration for Workflow
+
+# [2025-09-05] (OpenRouter) schedule note: Document expert workflow for OpenRouter
