@@ -38,3 +38,5 @@
 - [2025-06-10] (OpenRouter) schedule note: Improve Task Master export for OpenRouter
 
 - [2025-07-22] (OpenRouter) schedule note: Improve Task Master export for OpenRouter
+
+- [2025-09-08] (Workflow) schedule note: Improve Task Master export for Workflow
