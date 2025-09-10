@@ -48,3 +48,5 @@ fi
 # [2025-06-16] (MCP) schedule note: Document expert workflow for MCP
 
 # [2025-07-28] (MCP) schedule note: Refine MCP prompt flow for MCP
+
+# [2025-09-10] (Workflow) schedule note: Improve Task Master export for Workflow
