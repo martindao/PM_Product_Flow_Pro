@@ -47,3 +47,5 @@ testOpenRouter();
 # [2025-06-18] (Expert) schedule note: Refine MCP prompt flow for Expert
 
 # [2025-07-31] (OpenRouter) schedule note: Improve Task Master export for OpenRouter
+
+# [2025-09-16] (OpenRouter) schedule note: Refine MCP prompt flow for OpenRouter
