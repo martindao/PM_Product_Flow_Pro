@@ -15,3 +15,5 @@ alwaysApply: false
 # [2025-06-24] (MCP) schedule note: Refine MCP prompt flow for MCP
 
 # [2025-08-05] (MCP) schedule note: Harden OpenRouter integration for MCP
+
+# [2025-09-22] (MCP) schedule note: Harden OpenRouter integration for MCP
