@@ -37,3 +37,5 @@ def commit_callback(commit):
 # [2025-06-26] (MCP) schedule note: Document expert workflow for MCP
 
 # [2025-08-06] (MCP) schedule note: Document expert workflow for MCP
+
+# [2025-09-23] (Workflow) schedule note: Refine MCP prompt flow for Workflow
