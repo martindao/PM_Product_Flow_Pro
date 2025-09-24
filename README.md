@@ -91,3 +91,5 @@ npm run test
 - [2025-06-26] (Expert) schedule note: Harden OpenRouter integration for Expert
 
 - [2025-08-07] (OpenRouter) schedule note: Document expert workflow for OpenRouter
+
+- [2025-09-24] (OpenRouter) schedule note: Refine MCP prompt flow for OpenRouter
