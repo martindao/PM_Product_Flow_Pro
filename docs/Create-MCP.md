@@ -224,3 +224,5 @@ This allows you to test changes without publishing.
 - [2025-06-27] (Workflow) schedule note: Refine MCP prompt flow for Workflow
 
 - [2025-08-07] (Workflow) schedule note: Document expert workflow for Workflow
+
+- [2025-09-25] (Workflow) schedule note: Improve Task Master export for Workflow
