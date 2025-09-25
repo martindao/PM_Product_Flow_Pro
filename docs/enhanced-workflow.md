@@ -225,3 +225,5 @@ This integration is optional - you can use the AI Expert Workflow on its own for
 - [2025-06-30] (MCP) schedule note: Refine MCP prompt flow for MCP
 
 - [2025-08-08] (MCP) schedule note: Refine MCP prompt flow for MCP
+
+- [2025-09-25] (OpenRouter) schedule note: Refine MCP prompt flow for OpenRouter
