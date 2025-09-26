@@ -173,3 +173,5 @@ Overall, the project provides a solid foundation for AI expert consultation and 
 - [2025-06-30] (Workflow) schedule note: Document expert workflow for Workflow
 
 - [2025-08-11] (MCP) schedule note: Improve Task Master export for MCP
+
+- [2025-09-26] (MCP) schedule note: Refine MCP prompt flow for MCP
