@@ -244,3 +244,5 @@ Task Master: [Provides guidance on implementing the specific task]
 - [2025-07-01] (OpenRouter) schedule note: Refine MCP prompt flow for OpenRouter
 
 - [2025-08-11] (Expert) schedule note: Harden OpenRouter integration for Expert
+
+- [2025-09-26] (Workflow) schedule note: Document expert workflow for Workflow
