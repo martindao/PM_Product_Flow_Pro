@@ -99,3 +99,5 @@ Please provide more details about your test project so I can tailor this PRD to 
 - [2025-07-03] (Expert) schedule note: Refine MCP prompt flow for Expert
 
 - [2025-08-14] (MCP) schedule note: Improve Task Master export for MCP
+
+- [2025-09-30] (MCP) schedule note: Document expert workflow for MCP
