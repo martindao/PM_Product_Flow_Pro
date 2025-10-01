@@ -95,3 +95,5 @@ export function getTopicPhrases(topic: string): string[] {
 # [2025-07-07] (MCP) schedule note: Improve Task Master export for MCP
 
 # [2025-08-14] (MCP) schedule note: Refine MCP prompt flow for MCP
+
+# [2025-10-01] (Workflow) schedule note: Improve Task Master export for Workflow
