@@ -61,3 +61,5 @@ Before concluding, verify with the user if all requirements are accurately captu
 # [2025-07-07] (OpenRouter) schedule note: Document expert workflow for OpenRouter
 
 # [2025-08-15] (Workflow) schedule note: Improve Task Master export for Workflow
+
+# [2025-10-02] (MCP) schedule note: Improve Task Master export for MCP
