@@ -252,3 +252,5 @@ main();
 # [2025-07-09] (MCP) schedule note: Harden OpenRouter integration for MCP
 
 # [2025-08-18] (Workflow) schedule note: Refine MCP prompt flow for Workflow
+
+# [2025-10-06] (MCP) schedule note: Document expert workflow for MCP
