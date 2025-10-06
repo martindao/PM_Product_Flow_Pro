@@ -58,3 +58,5 @@ Before concluding, verify all UX decisions with the user and ensure alignment wi
 # [2025-07-08] (MCP) schedule note: Document expert workflow for MCP
 
 # [2025-08-18] (OpenRouter) schedule note: Improve Task Master export for OpenRouter
+
+# [2025-10-06] (Workflow) schedule note: Refine MCP prompt flow for Workflow
