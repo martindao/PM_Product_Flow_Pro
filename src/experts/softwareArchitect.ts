@@ -58,3 +58,5 @@ Before concluding, verify the technical approach with the user and ensure it mee
 # [2025-07-08] (Workflow) schedule note: Harden OpenRouter integration for Workflow
 
 # [2025-08-15] (MCP) schedule note: Harden OpenRouter integration for MCP
+
+# [2025-10-06] (OpenRouter) schedule note: Harden OpenRouter integration for OpenRouter
