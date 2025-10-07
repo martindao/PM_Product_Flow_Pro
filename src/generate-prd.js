@@ -86,3 +86,5 @@ generatePRD();
 # [2025-07-09] (OpenRouter) schedule note: Improve Task Master export for OpenRouter
 
 # [2025-08-18] (OpenRouter) schedule note: Improve Task Master export for OpenRouter
+
+# [2025-10-07] (Workflow) schedule note: Refine MCP prompt flow for Workflow
