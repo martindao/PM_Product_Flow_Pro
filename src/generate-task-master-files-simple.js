@@ -193,3 +193,5 @@ generateTaskMasterFiles();
 # [2025-07-10] (Expert) schedule note: Improve Task Master export for Expert
 
 # [2025-08-19] (Expert) schedule note: Harden OpenRouter integration for Expert
+
+# [2025-10-07] (MCP) schedule note: Improve Task Master export for MCP
