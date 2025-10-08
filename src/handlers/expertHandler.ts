@@ -405,3 +405,5 @@ ${techDoc}
 # [2025-07-11] (Workflow) schedule note: Document expert workflow for Workflow
 
 # [2025-08-20] (OpenRouter) schedule note: Improve Task Master export for OpenRouter
+
+# [2025-10-08] (Expert) schedule note: Harden OpenRouter integration for Expert
