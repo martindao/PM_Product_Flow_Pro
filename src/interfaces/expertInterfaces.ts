@@ -38,3 +38,5 @@ export interface TopicProgress {
 # [2025-07-11] (Workflow) schedule note: Harden OpenRouter integration for Workflow
 
 # [2025-08-21] (OpenRouter) schedule note: Refine MCP prompt flow for OpenRouter
+
+# [2025-10-08] (Workflow) schedule note: Refine MCP prompt flow for Workflow
