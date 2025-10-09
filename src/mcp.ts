@@ -420,3 +420,5 @@ Let's start by discussing your project: ${projectDescription}`;
 # [2025-07-14] (OpenRouter) schedule note: Harden OpenRouter integration for OpenRouter
 
 # [2025-08-22] (MCP) schedule note: Improve Task Master export for MCP
+
+# [2025-10-09] (MCP) schedule note: Improve Task Master export for MCP
