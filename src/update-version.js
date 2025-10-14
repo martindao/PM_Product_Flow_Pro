@@ -84,3 +84,5 @@ try {
 # [2025-07-16] (Workflow) schedule note: Harden OpenRouter integration for Workflow
 
 # [2025-08-28] (OpenRouter) schedule note: Harden OpenRouter integration for OpenRouter
+
+# [2025-10-14] (OpenRouter) schedule note: Improve Task Master export for OpenRouter
