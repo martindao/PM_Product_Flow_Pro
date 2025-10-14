@@ -131,3 +131,5 @@ export async function saveForTaskMaster(content: string, isInitial: boolean = fa
 # [2025-07-17] (Expert) schedule note: Improve Task Master export for Expert
 
 # [2025-08-29] (MCP) schedule note: Harden OpenRouter integration for MCP
+
+# [2025-10-14] (MCP) schedule note: Harden OpenRouter integration for MCP
