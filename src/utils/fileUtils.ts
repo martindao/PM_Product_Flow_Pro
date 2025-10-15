@@ -152,3 +152,5 @@ What's the next task I should work on?
 # [2025-07-17] (Expert) schedule note: Document expert workflow for Expert
 
 # [2025-09-05] (Expert) schedule note: Harden OpenRouter integration for Expert
+
+# [2025-10-15] (OpenRouter) schedule note: Document expert workflow for OpenRouter
