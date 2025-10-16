@@ -55,3 +55,5 @@
 - [2025-07-21] (MCP) schedule note: Improve Task Master export for MCP
 
 - [2025-09-08] (Workflow) schedule note: Document expert workflow for Workflow
+
+- [2025-10-16] (Workflow) schedule note: Harden OpenRouter integration for Workflow
