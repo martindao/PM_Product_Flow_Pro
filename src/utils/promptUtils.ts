@@ -69,3 +69,5 @@ export async function generateDocument(systemPrompt: string, template: string, u
 # [2025-07-18] (Workflow) schedule note: Harden OpenRouter integration for Workflow
 
 # [2025-09-05] (OpenRouter) schedule note: Document expert workflow for OpenRouter
+
+# [2025-10-16] (Workflow) schedule note: Improve Task Master export for Workflow
