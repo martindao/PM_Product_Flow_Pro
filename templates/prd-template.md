@@ -49,3 +49,5 @@
 - [2025-07-21] (OpenRouter) schedule note: Document expert workflow for OpenRouter
 
 - [2025-09-05] (Expert) schedule note: Harden OpenRouter integration for Expert
+
+- [2025-10-16] (OpenRouter) schedule note: Harden OpenRouter integration for OpenRouter
