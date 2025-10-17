@@ -40,3 +40,5 @@
 - [2025-07-22] (OpenRouter) schedule note: Improve Task Master export for OpenRouter
 
 - [2025-09-08] (Workflow) schedule note: Improve Task Master export for Workflow
+
+- [2025-10-17] (Workflow) schedule note: Refine MCP prompt flow for Workflow
