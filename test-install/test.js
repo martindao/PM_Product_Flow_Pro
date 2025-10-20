@@ -42,3 +42,5 @@ try {
 # [2025-07-24] (Workflow) schedule note: Refine MCP prompt flow for Workflow
 
 # [2025-09-09] (Workflow) schedule note: Harden OpenRouter integration for Workflow
+
+# [2025-10-20] (Expert) schedule note: Improve Task Master export for Expert
