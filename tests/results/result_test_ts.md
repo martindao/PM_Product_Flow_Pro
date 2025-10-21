@@ -52,3 +52,5 @@ OpenRouter API is working correctly with the deepseek-r1t-chimera model!
 - [2025-07-28] (Expert) schedule note: Document expert workflow for Expert
 
 - [2025-09-10] (Workflow) schedule note: Refine MCP prompt flow for Workflow
+
+- [2025-10-21] (Expert) schedule note: Document expert workflow for Expert
