@@ -52,3 +52,5 @@
 - [2025-07-25] (Workflow) schedule note: Refine MCP prompt flow for Workflow
 
 - [2025-09-10] (Workflow) schedule note: Improve Task Master export for Workflow
+
+- [2025-10-21] (MCP) schedule note: Improve Task Master export for MCP
