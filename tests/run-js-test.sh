@@ -23,3 +23,5 @@ fi
 # [2025-07-29] (Workflow) schedule note: Harden OpenRouter integration for Workflow
 
 # [2025-09-11] (Workflow) schedule note: Improve Task Master export for Workflow
+
+# [2025-10-23] (MCP) schedule note: Harden OpenRouter integration for MCP
