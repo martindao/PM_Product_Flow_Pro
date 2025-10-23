@@ -50,3 +50,5 @@ fi
 # [2025-07-29] (OpenRouter) schedule note: Improve Task Master export for OpenRouter
 
 # [2025-09-11] (Expert) schedule note: Improve Task Master export for Expert
+
+# [2025-10-23] (Expert) schedule note: Improve Task Master export for Expert
