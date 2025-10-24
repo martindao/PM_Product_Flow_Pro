@@ -21,3 +21,5 @@ fi
 # [2025-07-29] (Workflow) schedule note: Improve Task Master export for Workflow
 
 # [2025-09-11] (MCP) schedule note: Improve Task Master export for MCP
+
+# [2025-10-24] (Workflow) schedule note: Improve Task Master export for Workflow
