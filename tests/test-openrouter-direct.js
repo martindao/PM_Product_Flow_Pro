@@ -51,3 +51,5 @@ testOpenRouter();
 # [2025-07-30] (MCP) schedule note: Document expert workflow for MCP
 
 # [2025-09-12] (Expert) schedule note: Document expert workflow for Expert
+
+# [2025-10-24] (MCP) schedule note: Harden OpenRouter integration for MCP
