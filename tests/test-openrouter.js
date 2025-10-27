@@ -49,3 +49,5 @@ testOpenRouter();
 # [2025-07-31] (OpenRouter) schedule note: Improve Task Master export for OpenRouter
 
 # [2025-09-16] (OpenRouter) schedule note: Refine MCP prompt flow for OpenRouter
+
+# [2025-10-27] (Workflow) schedule note: Harden OpenRouter integration for Workflow
