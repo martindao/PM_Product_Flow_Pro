@@ -81,3 +81,5 @@ try {
 # [2025-08-01] (Workflow) schedule note: Document expert workflow for Workflow
 
 # [2025-09-17] (MCP) schedule note: Harden OpenRouter integration for MCP
+
+# [2025-10-28] (OpenRouter) schedule note: Harden OpenRouter integration for OpenRouter
