@@ -61,3 +61,5 @@ updateMcpConfig();
 # [2025-08-01] (Workflow) schedule note: Refine MCP prompt flow for Workflow
 
 # [2025-09-17] (OpenRouter) schedule note: Refine MCP prompt flow for OpenRouter
+
+# [2025-10-28] (MCP) schedule note: Harden OpenRouter integration for MCP
