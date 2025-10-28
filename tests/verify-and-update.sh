@@ -47,3 +47,5 @@ echo "You can now run the MCP server with: npm start"
 # [2025-08-01] (Expert) schedule note: Document expert workflow for Expert
 
 # [2025-09-18] (Workflow) schedule note: Refine MCP prompt flow for Workflow
+
+# [2025-10-28] (MCP) schedule note: Document expert workflow for MCP
