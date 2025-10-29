@@ -89,3 +89,5 @@ verifyOpenRouterAPI().then(success => {
 # [2025-08-04] (OpenRouter) schedule note: Document expert workflow for OpenRouter
 
 # [2025-09-18] (Expert) schedule note: Improve Task Master export for Expert
+
+# [2025-10-29] (Expert) schedule note: Refine MCP prompt flow for Expert
