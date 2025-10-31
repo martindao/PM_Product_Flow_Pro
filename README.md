@@ -1,95 +1,53 @@
-# Product Flow Pro
+# Product Flow Pro (MCP)
 
-A sophisticated product management workflow automation platform with MCP (Model Context Protocol) integration.
+## Overview
+Product Flow Pro is a Model Context Protocol implementation that stitches expert-driven MCP servers, Task Master orchestration, and OpenRouter-backed workflows into a single toolkit for PM/UX/Eng collaboration. It deploys as a Node.js service with TypeScript sources and ships CLI helpers for generating PRDs, workflows, and Task Master configs.
 
-## Features
-- **OpenRouter Integration**: Seamless connection with OpenRouter AI models for enhanced product analysis
-- **MCP Protocol Support**: Full Model Context Protocol implementation for extensible integrations
-- **Expert Workflows**: Intelligent workflow automation for product expert processes
-- **Task Master Export**: Advanced export capabilities for project management integration
-- **Prompt Flow Refinement**: Dynamic prompt optimization and management
-- **Expert Documentation**: Comprehensive documentation generation for expert workflows
+## Repository Layout
+- src/ � TypeScript sources (experts/, handlers/, shared utilities).
+- docs/ � architecture notes, prompt libraries, Task Master integration steps.
+- 	emplates/ � blueprint prompts for PRDs, reviews, and MCP skills.
+- scripts/ � Node helpers that create PRDs or Task Master bundles.
+- 	ests/ � Jest suites exercising handlers and expert flows.
+- .cursor/, 	est-install/ � environment automation and smoke-test scaffolding.
 
-## Core Components
+## Environment Setup
+1. Install dependencies:
+   `powershell
+   npm install
+   `
+2. Configure environment variables:
+   `powershell
+   copy .env.example .env
+   # Set OPENROUTER_API_KEY, TASK_MASTER_URL, MCP_WS_URL, etc.
+   `
+3. (Optional) log into Task Master per docs/task-master-integration.md if you plan to exercise end-to-end workflows.
 
-- **MCP Integration**: Core MCP protocol implementation
-- **OpenRouter Service**: AI model integration layer
-- **Workflow Engine**: Expert workflow automation
-- **Prompt Manager**: Dynamic prompt optimization
-- **Export System**: Task Master and other platform integrations
+## Running Workflows
+- Local dev server:
+  `powershell
+  npm run dev
+  `
+- Production build:
+  `powershell
+  npm run build
+  npm run start
+  `
+- CLI helpers:
+  `powershell
+  node scripts/generate-prd.js --project "Next-gen roadmap"
+  node scripts/create-task-master-files.js --output ./tmp/task-master
+  `
 
-## Architecture
-
-```
-src/
-├── core/          # Core MCP implementation
-├── openrouter/    # OpenRouter integration
-├── workflows/     # Expert workflow definitions
-├── prompts/       # Prompt management system
-├── export/        # Export and integration modules
-└── utils/         # Utility functions
-```
-
-## Usage
-
-Run the MCP server:
-```bash
-npm run start:mcp
-```
-
-Start the OpenRouter integration:
-```bash
-npm run start:openrouter
-```
-
-Execute workflow automation:
-```bash
-npm run automate:workflows
-```
-
-## Configuration
-
-Update configuration in `.env`:
-```
-OPENROUTER_API_KEY=your_api_key
-MCP_SERVER_PORT=3000
-TASK_MASTER_ENDPOINT=https://api.taskmaster.com
-```
-
-## Dependencies
-
-- @modelcontextprotocol/sdk
-- openai
-- typescript
-- node-cron
-- express
-
-## Development
-
-```bash
-npm install
-npm run build
-npm run test
-```
-
-## Contributing
-
-1. Fork the repository
-2. Create feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit changes (`git commit -m 'Add amazing feature'`)
-4. Push to branch (`git push origin feature/amazing-feature`)
-5. Open Pull Request
-
-- [2024-12-31] (MCP) schedule note: Refine MCP prompt flow for MCP
-
-- [2025-02-18] (MCP) schedule note: Harden OpenRouter integration for MCP
-
-- [2025-04-01] (OpenRouter) schedule note: Improve Task Master export for OpenRouter
-
-- [2025-05-12] (OpenRouter) schedule note: Improve Task Master export for OpenRouter
-
-- [2025-06-26] (Expert) schedule note: Harden OpenRouter integration for Expert
-
-- [2025-08-07] (OpenRouter) schedule note: Document expert workflow for OpenRouter
-
-- [2025-09-24] (OpenRouter) schedule note: Refine MCP prompt flow for OpenRouter
+## Quality & Automation
+- Lint and format before committing:
+  `powershell
+  npm run lint
+  npm run format
+  `
+- Execute Jest suites:
+  `powershell
+  npm test
+  `
+- Keep mcp-config.json in sync with any new experts or Task Master endpoints.
+- Deployment targets (Render/Vercel/pm2) should inject the same .env variables used locally; see docs/task-master-integration.md for the full list.
