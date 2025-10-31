@@ -1,15 +1,15 @@
 # Product Flow Pro (MCP)
 
 ## Overview
-Product Flow Pro is a Model Context Protocol implementation that stitches expert-driven MCP servers, Task Master orchestration, and OpenRouter-backed workflows into a single toolkit for PM/UX/Eng collaboration. It deploys as a Node.js service with TypeScript sources and ships CLI helpers for generating PRDs, workflows, and Task Master configs.
+Product Flow Pro stitches together expert-driven MCP servers, Task Master orchestration, and OpenRouter-backed workflows. It is implemented in Node.js/TypeScript and ships CLI helpers for generating PRDs, workflows, and Task Master configurations.
 
 ## Repository Layout
 - src/ – TypeScript sources (experts/, handlers/, shared utilities).
 - docs/ – architecture notes, prompt libraries, Task Master integration steps.
 - 	emplates/ – blueprint prompts for PRDs, reviews, and MCP skills.
-- scripts/ – Node helpers that create PRDs or Task Master bundles.
+- scripts/ – Node helpers that produce PRDs or Task Master bundles.
 - 	ests/ – Jest suites exercising handlers and expert flows.
-- .cursor/, 	est-install/ – environment automation and smoke-test scaffolding.
+- .cursor/, 	est-install/ – automation helpers and smoke-test scaffolding.
 
 ## Environment Setup
 1. Install dependencies:
@@ -21,7 +21,7 @@ Product Flow Pro is a Model Context Protocol implementation that stitches expert
    copy .env.example .env
    # Set OPENROUTER_API_KEY, TASK_MASTER_URL, MCP_WS_URL, etc.
    `
-3. (Optional) log into Task Master per docs/task-master-integration.md if you plan to exercise end-to-end workflows.
+3. (Optional) authenticate with Task Master following docs/task-master-integration.md.
 
 ## Running Workflows
 - Local dev server:
@@ -40,14 +40,14 @@ Product Flow Pro is a Model Context Protocol implementation that stitches expert
   `
 
 ## Quality & Automation
-- Lint and format before committing:
+- Lint and format before pushing changes:
   `powershell
   npm run lint
   npm run format
   `
-- Execute Jest suites:
+- Run Jest suites:
   `powershell
   npm test
   `
 - Keep mcp-config.json in sync with any new experts or Task Master endpoints.
-- Deployment targets (Render/Vercel/pm2) should inject the same .env variables used locally; see docs/task-master-integration.md for the full list.
+- Ensure deployment platforms (Render, Vercel, pm2, etc.) load the same .env values described in docs/task-master-integration.md.
