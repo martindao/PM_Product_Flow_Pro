@@ -1,0 +1,90 @@
+Thank you for your input! To create a detailed Product Requirements Document (PRD), I'll need a bit more information. Could you clarify:
+
+1. What is the main goal or vision for this product?
+2. Who are the primary target users or customers?
+3. What key problem(s) does this product solve?
+4. What are the core features you envision?
+5. How will you measure the success of this product?
+6. Do you have a preferred timeline or launch date in mind?
+7. How do you plan to monetize this product?
+8. Are there any specific competitors or similar products in the market?
+
+Once you provide more details, I can generate a comprehensive PRD for your test project. For now, here’s a generic template based on a placeholder "test project":
+
+---
+
+# Product Requirements Document
+
+## Product Overview
+A new digital product aimed at solving a specific user problem through a novel or improved solution.
+
+## Problem Statement
+Users currently face difficulties achieving [core goal] due to [pain point]. Existing solutions are insufficient due to [reasons].
+
+## User Personas
+- **Persona 1:** [Brief profile: age, occupation, needs, pain points]
+- **Persona 2:** [Brief profile: age, occupation, needs, pain points]
+
+## User Stories/Jobs to be Done
+- As a [persona], I want to [goal] so that [benefit].
+- As a [persona], I need [feature] so I can [outcome].
+
+## Feature Requirements
+
+| Feature                        | Description                              | Priority  |
+|---------------------------------|------------------------------------------|-----------|
+| User Registration/Login         | Users can create accounts and sign in    | High      |
+| Core Functionality [describe]   | Main feature that solves the core problem| High      |
+| User Dashboard                  | Overview of current status or data       | Medium    |
+| Notifications/Alerts            | Users receive timely updates             | Medium    |
+| Settings/Preferences            | Users can adjust preferences             | Low       |
+
+## MVP Summary
+- User registration/login
+- Core functionality that solves the main problem
+- Basic dashboard to display results/outputs
+
+## Success Metrics
+- Number of sign-ups within 30/90 days
+- Engagement/active users per week
+- Task completion rate or core feature usage
+- User satisfaction (NPS or survey)
+
+## Timeline and Milestones
+
+| Milestone             | Date         |
+|-----------------------|--------------|
+| Requirements Complete | Week 1       |
+| MVP Design            | Week 2-3     |
+| MVP Development       | Week 4-7     |
+| Internal Testing      | Week 8       |
+| Beta Launch           | Week 9       |
+| Public Launch         | Week 10      |
+
+## Business Model
+- Freemium: Free basic tier, paid premium features
+- Subscription: Monthly or annual fee for full access
+- One-time purchase or licensing
+
+## Lean Startup Validation Plan
+- **Hypotheses:** Users will adopt the tool to solve [problem]; users will pay for premium features.
+- **Metrics:** Activation rate, retention rate, conversion to paid, qualitative feedback.
+
+## Competitive Analysis
+- [Competitor A]: Strengths/weaknesses
+- [Competitor B]: Strengths/weaknesses
+- Unique value proposition: [What sets this product apart]
+
+## Open Questions and Risks
+- What is the most critical feature for launch?
+- Are there technical dependencies?
+- What are the biggest unknowns in user needs?
+
+## Appendix
+- User research summaries
+- Market sizing or TAM/SAM/SOM
+- Technical architecture sketches
+
+---
+
+Please provide more details about your test project so I can tailor this PRD to your specific needs!

@@ -1,0 +1,67 @@
+{
+  "name": "ai-expert-workflow-mcp",
+  "version": "2.3.2",
+  "description": "Enhanced AI Expert Workflow MCP Server with structured conversation flow, topic tracking, and optional Task Master integration",
+  "main": "dist/index.js",
+  "bin": {
+    "ai-expert-workflow-mcp": "dist/index.js",
+    "ai-expert-workflow-generate": "src/generate-and-parse.js",
+    "ai-expert-workflow-prd": "src/generate-prd.js"
+  },
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "dev": "nodemon --watch 'src/**/*.ts' --exec 'ts-node' src/index.ts",
+    "prepare": "npm run build",
+    "test": "node tests/test-openrouter.js",
+    "test:ts": "ts-node tests/test-openrouter.ts",
+    "test:all": "bash tests/run-comprehensive-test.sh",
+    "test:essential": "bash tests/run-essential-tests.sh",
+    "test:js": "bash tests/run-js-test.sh",
+    "test:mcp": "node dist/index.js",
+    "verify-openrouter": "node tests/verify-openrouter.js",
+    "update-config": "node tests/update-mcp-config.js",
+    "verify-and-update": "bash tests/verify-and-update.sh",
+    "verify-env": "node tests/verify-env-model.js",
+    "test:real-mcp": "node tests/test-real-mcp.js",
+    "test:mcp-only": "node tests/test-mcp-only.js",
+    "test:openrouter-direct": "node tests/test-openrouter-direct.js",
+    "check-sdk": "node tests/check-mcp-sdk.js",
+    "generate": "node src/generate-and-parse.js"
+  },
+  "keywords": [
+    "ai",
+    "workflow",
+    "mcp",
+    "prd",
+    "product-requirements",
+    "openrouter",
+    "task-master",
+    "standalone",
+    "structured-workflow",
+    "topic-tracking",
+    "expert-system"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/martindao/PM_Product_Flow_Pro.git"
+  },
+  "author": "Martin Dao",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/martindao/PM_Product_Flow_Pro/issues"
+  },
+  "homepage": "https://martindao.onrender.com",
+  "devDependencies": {
+    "@types/node": "^22.14.1",
+    "@types/node-fetch": "^2.6.11",
+    "nodemon": "^3.1.9",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.9.0",
+    "dotenv": "^16.5.0",
+    "node-fetch": "^2.7.0"
+  }
+}
